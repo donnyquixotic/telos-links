@@ -1,2 +1,2 @@
 # telos-links
-useful links for Telos Network
+Telos links reference
